@@ -13,4 +13,4 @@ Java · C# · Python · JavaScript · TypeScript · HTML · CSS · React
 
 🔎 Dá uma olhada nos meus projetos fixados abaixo — é onde estou colocando em prática tudo que venho aprendendo. Fico feliz com visitas, estrelas e sugestões!
 
-📧 **Contato:** matheusconolly@gmail.com
+📧 **Contato:** matheus.conolly.dev@gmail.com
