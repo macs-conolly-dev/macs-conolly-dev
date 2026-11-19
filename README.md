@@ -1,16 +1,16 @@
-### Olá! 👋 Sou o Matheus
+### Oi, eu sou o Matheus Conolly 👋
 
-💻 **Linguagens & tecnologias que uso:**
-Java · C# · Python · JavaScript · TypeScript · HTML · CSS · React
+Estudante de ADS na CESAR School (4º período), em Recife.
+Construindo base sólida em desenvolvimento e me aprofundando em **dados e IA**.
+🎯 Aberto a estágio em Dev, Dados/IA ou QA.
 
----
+#### 🔭 No que estou trabalhando
+- **LogiTwin** (Porto Digital · TakeOff CESAR) — gêmeo digital logístico; atuo no backend de eventos e no motor preditivo de SLA (Python)
+- **Raízes PE** — projeto integrador do 4º período, em equipe
+- Infra em nuvem: serverless (AWS SAM) e mensageria (SQS/ElasticMQ)
 
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), construindo minha base como desenvolvedor Full Stack.
+#### 🛠️ Stack
+Python · TypeScript · JavaScript · React · Next.js · SQL · Supabase · Java · C# · Docker · Git
 
-🤝 Meu forte é o trabalho em equipe — sou prestativo e gosto de ajudar quem estiver por perto, seja tirando dúvida ou dando uma força num problema.
-
----
-
-🔎 Dá uma olhada nos meus projetos fixados abaixo — é onde estou colocando em prática tudo que venho aprendendo. Fico feliz com visitas, estrelas e sugestões!
-
-📧 **Contato:** matheus.conolly.dev@gmail.com
+#### 📫 Contato
+[LinkedIn](https://linkedin.com/in/matheus-conolly-dev) · matheus.conolly.dev@gmail.com
